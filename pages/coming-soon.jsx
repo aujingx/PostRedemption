@@ -11,7 +11,7 @@ const ComingSoon = () => {
       <h1 className="text-8xl">Post Redemption</h1>
       <h2 className="text-6xl">save world together</h2>
       <div className="mt-10 w-[800px] h-auto text-xl leading-10">
-        <p className="">
+        <p>
           After humans have ravaged the earth for thousands of years, they have
           finally succeeded in "transforming" the earth into a barren land:
           nuclear pollution, plastic waste, electronic fog, dust smog ... All
